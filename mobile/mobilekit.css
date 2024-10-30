@@ -1,0 +1,52 @@
+/*
+Document   : mobilekit.css
+Created on : Nov 28, 2010, 4:12:36 PM
+Author     : Studio365
+Description:  Mobile css-styles*/
+.warp #mobile-kit
+{
+	/*[disabled]background-image:url(mobile-kit-admin-bg.jpg);*/
+	min-height: 620px;
+	background-repeat: no-repeat;
+	background-position: right top;
+	min-width: 800px;
+	margin-bottom: 40px;
+}
+.warp #mobile-kit #mk_content LI
+{
+	list-style-type: circle;
+	margin-left: 40px;
+}
+#wpwrap #mobile-kit #mk_content
+{
+	width: 500px;
+}
+.wp-admin .wrap .mobile-note
+{
+	padding: 10px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-size: 10px;
+	background-color: #F2F2F2;
+	border: 1px solid #DBDBDB;
+	color: #A3A2A2;
+}
+#wpwrap .device-select SELECT
+{
+	width: 305px;
+}
+.mobile-kit_page_mobilekit_settings .wrap INPUT.mobile-input
+{
+	width: 300px;
+}
+/*Meta*/
+#mobile-meta LABEL
+{
+	display: block;
+	margin-bottom: 10px;
+}
+#mobile-meta P
+{
+	/*[disabled]margin-bottom:20px;*/
+	padding-bottom: 10px;
+}
